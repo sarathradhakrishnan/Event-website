@@ -28,10 +28,6 @@ body {
     padding: 0 100px;
     font-weight: bold;
 }
-.label :hover
-{
-    color: #1c1b29;
-}
 .cards{
     display: grid;
     grid-template-columns: repeat(auto-fit,
