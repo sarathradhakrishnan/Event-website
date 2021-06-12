@@ -76,4 +76,9 @@ img{
     line-height: 10px;
     font-weight: 200;
 }
+.hero-ingress
+{
+    position: absolute;
+    border-radius: 10px;
+}
 
