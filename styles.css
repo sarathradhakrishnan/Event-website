@@ -31,7 +31,7 @@ body {
 .cards{
     display: grid;
     grid-template-columns: repeat(auto-fit,
-    minimax(400px,1fr));
+    minmax(400px,1fr));
     padding: 20px;
     grid: gap 40px;
 }
@@ -43,7 +43,7 @@ body {
 .container{
     position: relative;
     clip-path: polygon(0 0,100% 0,100%
-    85%,0 100%);
+    100%,0 100%);
 }
 img{
     width:100%;
@@ -57,23 +57,23 @@ img{
     position: absolute;
     top: 0;
     left: 0;
-    border-radius: 20px 20px 0 0;
+    border-radius: 70px 100px 0 0;
     opacity: 0.7;
 
 }
 .details{
-    padding: 20px 10px;
+    padding: 30px 20px;
 }
 .details>h3{
     color: #fafafa;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 18px;
-    margin: 10px 0 15px 0;
+    margin: 5px 0 5px 0;
 }
 .details>p{
     color:#a0a0a0;
     font-size: 15px;
-    line-height: 30px;
-    font-weight: 400;
+    line-height: 10px;
+    font-weight: 200;
 }
 
