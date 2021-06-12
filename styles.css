@@ -77,3 +77,16 @@ img{
     line-height: 10px;
     font-weight: 200;
 }
+.foot{
+    
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background-color:#480052;
+    color: white;
+    height: 50px;
+    width: 100%;
+
+}
