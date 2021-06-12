@@ -39,6 +39,7 @@ body {
     background-color: #1c1b29;
     border-radius: 20px;
     box-shadow: 0 0 30px rgba(0,0,0,0.18);
+    margin: 20px;
 }
 .container{
     position: relative;
@@ -76,4 +77,3 @@ img{
     line-height: 10px;
     font-weight: 200;
 }
-
