@@ -11,6 +11,7 @@
 body {
     font-family:  sans-serif;
     background-color: #f6f3f7fa;
+    height: 100vh;
 }
 /* Nav Bar */
 
@@ -25,4 +26,10 @@ nav {
     line-height: 80px;
     padding: 0 100px;
     font-weight: bold;
+}
+.cards{
+
+}
+.card{
+    
 }
